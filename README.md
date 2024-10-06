@@ -9,6 +9,7 @@ My personal projects, including projects related to Varnish, are hosted
 on [sourcehut](https://sr.ht/~dridi/) and some of them used to live on
 GitHub:
 
+- [bjxa](https://sr.ht/~dridi/bjxa/) (a BandJAM XA audio codec)
 - [varnishplot](https://git.sr.ht/~dridi/varnishplot) (turns Varnish logs
   into Gnuplot scripts)
 - [vclpp](https://git.sr.ht/~dridi/vclpp) (experimental VCL preprocessor)
