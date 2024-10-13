@@ -13,6 +13,8 @@ GitHub:
 - [varnishplot](https://git.sr.ht/~dridi/varnishplot) (turns Varnish logs
   into Gnuplot scripts)
 - [vclpp](https://git.sr.ht/~dridi/vclpp) (experimental VCL preprocessor)
+- [vmod-querystring](https://git.sr.ht/~dridi/vmod-querystring)
+  (query-string filtering toolkit for Varnish)
 
 Other projects still on GitHub will eventually move to sourcehut.
 
