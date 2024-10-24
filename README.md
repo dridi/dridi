@@ -12,6 +12,7 @@ GitHub:
 - [bjxa](https://sr.ht/~dridi/bjxa/) (a BandJAM XA audio codec)
 - [varnishplot](https://git.sr.ht/~dridi/varnishplot) (turns Varnish logs
   into Gnuplot scripts)
+- [vcdk](https://git.sr.ht/~dridi/vcdk) (Varnish Cache Development Kit)
 - [vclpp](https://git.sr.ht/~dridi/vclpp) (experimental VCL preprocessor)
 - [vmod-querystring](https://git.sr.ht/~dridi/vmod-querystring)
   (query-string filtering toolkit for Varnish)
