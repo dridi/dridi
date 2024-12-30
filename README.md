@@ -1,13 +1,13 @@
 # dridi
 
-Hi, I'm a systems developer working for Varnish Software.
+Hi, I'm a systems developer.
 
-I use my GitHub account primarily for my professional work on Varnish
-Cache and contributions to projects hosted here.
+I use my GitHub account primarily for my professional and contributions
+to projects hosted here.
 
-My personal projects, including projects related to Varnish, are hosted
-on [sourcehut](https://sr.ht/~dridi/) and some of them used to live on
-GitHub:
+My personal projects, including projects related to Varnish Cache, are
+hosted on [sourcehut](https://sr.ht/~dridi/) and some of them used to
+live on GitHub:
 
 - [bjxa](https://sr.ht/~dridi/bjxa/) (a BandJAM XA audio codec)
 - [varnishplot](https://git.sr.ht/~dridi/varnishplot) (turns Varnish logs
